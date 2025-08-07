@@ -179,5 +179,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <div align="center">
-Made with ❤️ by [Your Name](https://github.com/michaelshimeles)
+Made with ❤️ by [Micky](https://github.com/michaelshimeles)
 </div>
